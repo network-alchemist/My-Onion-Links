@@ -106,11 +106,9 @@ dump.li – http://dumpliwoard5qsrrsroni7bdiishealhky4snigbzfmzcquwo3kml4id.onio
 Nyx – http://3ewfgrt4gzfccp6bnquhqb266r3zepiqpnsk3falwygkegtluwuyevid.onion  
 Adamant – http://adamant6457join2rxdkr2y7iqatar7n4n72lordxeknj435i4cjhpyd.onion  
 Titan – http://titanxsu7bfd7vlyyffilprauwngr4acbnz27ulfhyxrqutu7atyptad.onion  
-WebIRC –  
-http://34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad.onion   
+WebIRC – http://34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad.onion   
 Cwtch – http://cwtchim3z2gdsyb27acfc26lup5aqbegjrjsqulzrnkuoalq5h4gmcid.onion    
-ZeroBin - 
-http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion 
+ZeroBin - http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion   
 
 ### SECURITY AND PRIVACY
 Electronic Frontier Foundation - https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion  
@@ -227,10 +225,8 @@ Ablative – http://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.oni
 OnionLand – http://dwebkjkovsjobzrb45dz6prnlifnapiyp2dba33vcmcsaikr2re4d5qd.onion   
 Privex – http://privex3guvvasyer6pxz2fqcgy56auvw5egkir6ykwpptferdcb5toad.onion    
 Impreza – https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion    
-SporeStack -
-http://spore64i5sofqlfz5gq2ju4msgzojjwifls7rok2cti624zyq3fcelad.onion   
-Njalla -
-http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion   
+SporeStack - http://spore64i5sofqlfz5gq2ju4msgzojjwifls7rok2cti624zyq3fcelad.onion   
+Njalla - http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion   
 Cloudflare Public DNS 1.1.1.1 - https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion    
 HARICA Certificate Authority - https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion    
 
