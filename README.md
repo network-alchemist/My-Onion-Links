@@ -7,42 +7,7 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
 <hr>
 
-<h2>REFERENCES</h2>
-
-<table style="width:100%" cellspacing="0" cellpadding="0">
-<thead>
-  <tr>
-    <td align="left" valign="top">
-    https://github.com/UncensoredHiddenWiki/onion-links<br>
-    https://github.com/ahmia/ahmia-site<br>
-    https://github.com/OnionLinker/onion-links<br>
-    https://github.com/OnionLinker/onion-links<br>
-    https://github.com/alecmuffett/real-world-onion-sites<br>
-    https://github.com/DarkNetEye/tor-links<br>
-    https://github.com/gt0day/DarkWeb<br>
-    https://github.com/praveenjalasutram/Darkweb-Onion-Links<br>
-    https://github.com/5ky1ar/Awesome-Onion-Links<br>
-    https://github.com/alecmuffett/eotk<br>
-    </td>
-    <td align="left" valign="top">
-    https://oniondotindex.com<br>
-    https://pastebin.com<br>
-    https://hidden-wiki.cc<br>
-    https://raddle.me/wiki/onion_index<br>
-    https://dark.fail<br>
-    https://kycnot.me<br>
-    https://godnotaba.io<br>
-    https://www.reddit.com/r/onions<br>
-    https://www.reddit.com/r/TOR<br>
-    <br>
-    </td>
-  </tr>
-</thead>
-</table>
-
-<hr>
-
-<p style="color:Red; background-color:Yellow;">WARNING!</p>
+<h2><p style="color:Red; background-color:Yellow;">WARNING!</p></h2>
 
 <details>
 <summary><b>The Basics of the Dark Web</b></summary>
@@ -394,3 +359,37 @@ Cloudflare Public DNS 1.1.1.1 - https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75eu
 HARICA Certificate Authority - https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion</br>
 
 <br>
+<hr>
+
+<h2>REFERENCES</h2>
+
+<table style="width:100%" cellspacing="0" cellpadding="0">
+<thead>
+  <tr>
+    <td align="left" valign="top">
+    https://github.com/UncensoredHiddenWiki/onion-links<br>
+    https://github.com/ahmia/ahmia-site<br>
+    https://github.com/OnionLinker/onion-links<br>
+    https://github.com/OnionLinker/onion-links<br>
+    https://github.com/alecmuffett/real-world-onion-sites<br>
+    https://github.com/DarkNetEye/tor-links<br>
+    https://github.com/gt0day/DarkWeb<br>
+    https://github.com/praveenjalasutram/Darkweb-Onion-Links<br>
+    https://github.com/5ky1ar/Awesome-Onion-Links<br>
+    https://github.com/alecmuffett/eotk<br>
+    </td>
+    <td align="left" valign="top">
+    https://oniondotindex.com<br>
+    https://pastebin.com<br>
+    https://hidden-wiki.cc<br>
+    https://raddle.me/wiki/onion_index<br>
+    https://dark.fail<br>
+    https://kycnot.me<br>
+    https://godnotaba.io<br>
+    https://www.reddit.com/r/onions<br>
+    https://www.reddit.com/r/TOR<br>
+    <br>
+    </td>
+  </tr>
+</thead>
+</table>
