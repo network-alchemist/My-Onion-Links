@@ -56,7 +56,7 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 <a href="https://www.youtube.com/watch?v=01oeaBb85Xc">
   <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D01oeaBb85Xc" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
 </a><br>
-<details>
+</details>
 
 <details>
 <summary><b>Tor Settings / Sites</b></summary>
