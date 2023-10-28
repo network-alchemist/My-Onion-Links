@@ -1,4 +1,4 @@
-# 👽🤡🧙👻💀 ONION LINKS 💀👻🧙🤡👽
+<h1> 👽🤡🧙👻💀 ONION LINKS 💀👻🧙🤡👽</h1>
 
 <pre>"If the government or the parties won't address our needs, we will.    
 It's about direct action, even civil disobedience." (Edward Snowden)</pre>
@@ -7,7 +7,7 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
 <hr>
 
-<h2><p style="color:Red; background-color:Yellow;">WARNING!</p></h2>
+<h2>WARNING!</h2>
 
 <details>
 <summary><b>The Basics of the Dark Web</b></summary>
