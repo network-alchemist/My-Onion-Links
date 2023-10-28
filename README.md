@@ -129,7 +129,7 @@ Advanced  select:</br>
 <p>You can also expand each node in the left pane for additional information.</p>
 
 <h4>2. Setting up the VirtualBox:</h4>
-<b><em>What is a VirtualBox?</em><b>
+<b><em>What is a VirtualBox?</em></b>
 <p>In short, VirtualBox is a tool developed by Oracle to allow running multiple operating systems simultaneously. This allows easier software installations, better testing, faster disaster recovery, and it significantly reduce hardware and electricity costs.<br>The complete introduction can be found here:<br>
 <a href="https://www.virtualbox.org/manual/ch01.html#virt-why-useful">virtualbox.org - Chapter 1. First Steps</a></p></br>
 
