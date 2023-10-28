@@ -45,6 +45,20 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 <p style="color:Red; background-color:Yellow;">WARNING!</p>
 
 <details>
+<summary><b>The Basics of the Dark Web</b></summary>
+
+<a href="https://www.youtube.com/watch?v=nFZm4sVsPXk">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFZm4sVsPXk" alt="Secure TailsOS Setup For The Average Dark Web Enjoyer" title="Secure TailsOS Setup For The Average Dark Web Enjoyer"/>
+</a><br>
+<a href="https://www.youtube.com/watch?v=GR_U0G-QGA0">
+<img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
+</a><br>
+<a href="https://www.youtube.com/watch?v=01oeaBb85Xc">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D01oeaBb85Xc" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
+</a><br>
+<details>
+
+<details>
 <summary><b>Tor Settings / Sites</b></summary>
 </br>
 Go to:</br>
@@ -75,13 +89,16 @@ Advanced  select:</br>
 </details>
 
 <details>
-<summary><b>How to setup Whonix VM for Linux</b></summary>
+<summary><b>How to setup Whonix VM with VirtualBox for Linux</b></summary>
+
+<em>Always prefer live mode that can't leave any kind of forensic trace.</em>
 
 <h4>1. Check that you have the required computer specification:</h4>
 <p><b>Hardware requirements:</b></p>
-<p>Storage device: Minimum of 8 GB.</p>
-<p>Processor: A 64-bit x86-64 compatible.</p>
-<p>For optimal performance: 2 GB of RAM.</p>
+<p>Storage device: Minimum of 16 GB.</p>
+<p>Processor: A quadcore, 64-bit x86-64 compatible.</p>
+<p>For optimal performance: 8 GB of RAM.</p>
+<a href="https://forums.whonix.org/t/recommended-specs/9679">https://forums.whonix.org/t/recommended-specs/9679</a>
 
 <h4>2. Automatic installation for Linux:</h4>
 <a href="https://www.whonix.org/wiki/Linux">https://www.whonix.org/wiki/Linux</a>
@@ -89,19 +106,22 @@ Advanced  select:</br>
 
 <h4>3. Manual installation for Linux:</h4>
 <a href="https://www.whonix.org/wiki/Debian#Debian">https://www.whonix.org/wiki/Debian#Debian</a></br>
+
 <hr>
 <br>
 </details>
 
 <details>
-<summary><b>How to setup TailsOS VM</b></summary></br>
+<summary><b>How to setup TailsOS VM with VirtualBox</b></summary></br>
 <p>Introduction: Welcome to the tutorial on creating a VirtualBox with TailsOS, Oracle VM VirtualBox is simple yet powerful as it can be run from a multitude of devices such as small embedded systems to datacenter deployments whilst TailsOS is a portable operating system that protects against surveillance and censorship.</p>
+
+<em>Always prefer live mode that can't leave any kind of forensic trace.</em>
 
 <h4>1. Check that you have the required computer specification:</h4>
 <p><b>Hardware requirements:</b></p>
-<p>Storage device: Minimum of 8 GB.</p>
-<p>Processor: A 64-bit x86-64 compatible.</p>
-<p>For optimal performance: 2 GB of RAM.</p>
+<p>Storage device: Minimum of 16 GB.</p>
+<p>Processor: A quadcore, 64-bit x86-64 compatible.</p>
+<p>For optimal performance: 8 GB of RAM.</p>
 
 <b>How can I check my system's hardware?</b>
 <p>Click the Start button and type &quot;system information&quot; then open it.</p>
