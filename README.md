@@ -24,7 +24,7 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 </details>
 
 <details>
-<summary><b>Tor Settings / Sites</b></summary>
+<summary><b>Tor Settings for Dark Web</b></summary>
 </br>
 Go to:</br>
 <pre>about:preferences#privacy</pre>
@@ -54,9 +54,9 @@ Advanced  select:</br>
 </details>
 
 <details>
-<summary><b>How to setup Whonix VM with VirtualBox for Linux</b></summary>
+<summary><b>How to set up Whonix VM with VirtualBox on Linux</b></summary>
 
-<em>Always prefer live mode that can't leave any kind of forensic trace.</em>
+<em>Always prefer the live mode that doesn't leave any kind of forensic trace. I always prefer Linux as a host.</em>
 
 <h4>1. Check that you have the required computer specification:</h4>
 <p><b>Hardware requirements:</b></p>
@@ -80,7 +80,7 @@ Advanced  select:</br>
 <summary><b>How to setup TailsOS VM with VirtualBox</b></summary></br>
 <p>Introduction: Welcome to the tutorial on creating a VirtualBox with TailsOS, Oracle VM VirtualBox is simple yet powerful as it can be run from a multitude of devices such as small embedded systems to datacenter deployments whilst TailsOS is a portable operating system that protects against surveillance and censorship.</p>
 
-<em>Always prefer live mode that can't leave any kind of forensic trace.</em>
+<em>Always prefer the live mode that doesn't leave any kind of forensic trace. I always prefer Linux as a host.</em>
 
 <h4>1. Check that you have the required computer specification:</h4>
 <p><b>Hardware requirements:</b></p>
