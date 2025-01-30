@@ -1,18 +1,19 @@
 <h1>
-  
-      ▒█████   ███▄    █  ██▓ ▒█████   ███▄    █ 
-     ▒██▒  ██▒ ██ ▀█   █ ▓██▒▒██▒  ██▒ ██ ▀█   █ 
-     ▒██░  ██▒▓██  ▀█ ██▒▒██▒▒██░  ██▒▓██  ▀█ ██▒
-     ▒██   ██░▓██▒  ▐▌██▒░██░▒██   ██░▓██▒  ▐▌██▒
- ██▓ ░ ████▓▒░▒██░   ▓██░░██░░ ████▓▒░▒██░   ▓██░
- ▒▓▒ ░ ▒░▒░▒░ ░ ▒░   ▒ ▒ ░▓  ░ ▒░▒░▒░ ░ ▒░   ▒ ▒ 
- ░▒    ░ ▒ ▒░ ░ ░░   ░ ▒░ ▒ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░
- ░   ░ ░ ░ ▒     ░   ░ ░  ▒ ░░ ░ ░ ▒     ░   ░ ░ 
-  ░      ░ ░           ░  ░      ░ ░           ░ 
-  ░                                                </h1>
+  ▒█████   ███▄    █  ██▓ ▒█████   ███▄    █ <br>
+  ▒██▒  ██▒ ██ ▀█   █ ▓██▒▒██▒  ██▒ ██ ▀█   █ <br>
+  ▒██░  ██▒▓██  ▀█ ██▒▒██▒▒██░  ██▒▓██  ▀█ ██▒<br>
+  ▒██   ██░▓██▒  ▐▌██▒░██░▒██   ██░▓██▒  ▐▌██▒<br>
+  ██▓ ░ ████▓▒░▒██░   ▓██░░██░░ ████▓▒░▒██░   ▓██░<br>
+  ▒▓▒ ░ ▒░▒░▒░ ░ ▒░   ▒ ▒ ░▓  ░ ▒░▒░▒░ ░ ▒░   ▒ ▒ <br>
+  ░▒    ░ ▒ ▒░ ░ ░░   ░ ▒░ ▒ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░<br>
+  ░   ░ ░ ░ ▒     ░   ░ ░  ▒ ░░ ░ ░ ▒     ░   ░ ░ <br>
+  ░      ░ ░           ░  ░      ░ ░           ░ <br>
+</h1>
 
-<pre>"If the government or the parties won't address our needs, we will.    
-It's about direct action, even civil disobedience." (Edward Snowden)</pre>
+<pre>
+"If the government or the parties won't address our needs, we will.
+It's about direct action, even civil disobedience." (Edward Snowden)
+</pre>
 
 ![lasmeninas](https://github.com/RENANZG/My-Onion-Links/assets/53377291/e69859bd-ee3e-4d1b-8200-b51b2cf76eb0)
 
@@ -21,6 +22,11 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 <h2>WARNING!</h2>
 
 <details>
+<summary>Click to Expand</summary>
+
+This section contains sensitive or detailed information. Proceed with caution.
+
+</details>
 <summary><b>The Basics of the Dark Web</b></summary>
 
 <a href="https://www.youtube.com/watch?v=nFZm4sVsPXk">
