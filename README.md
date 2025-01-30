@@ -1,4 +1,4 @@
-<h1> 👽🤡🧙👻💀 ONION LINKS 💀👻🧙🤡👽</h1>
+![ONION Links Header](https://iili.io/2Q4DTqF.png)
 
 <pre>"If the government or the parties won't address our needs, we will.    
 It's about direct action, even civil disobedience." (Edward Snowden)</pre>
