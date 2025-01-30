@@ -1,4 +1,4 @@
-<h1>  ▒█████   ███▄    █  ██▓ ▒█████   ███▄    █ 
+<pre>  ▒█████   ███▄    █  ██▓ ▒█████   ███▄    █ 
      ▒██▒  ██▒ ██ ▀█   █ ▓██▒▒██▒  ██▒ ██ ▀█   █ 
      ▒██░  ██▒▓██  ▀█ ██▒▒██▒▒██░  ██▒▓██  ▀█ ██▒
      ▒██   ██░▓██▒  ▐▌██▒░██░▒██   ██░▓██▒  ▐▌██▒
@@ -7,9 +7,9 @@
  ░▒    ░ ▒ ▒░ ░ ░░   ░ ▒░ ▒ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░
  ░   ░ ░ ░ ▒     ░   ░ ░  ▒ ░░ ░ ░ ▒     ░   ░ ░ 
   ░      ░ ░           ░  ░      ░ ░           ░ 
-  ░                                                </h1>
+  ░                                                </pre>
 
-<pre>"If the government or the parties won't address our needs, we will.    
+< pre>"If the government or the parties won't address our needs, we will.    
 It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
 ![lasmeninas](https://github.com/RENANZG/My-Onion-Links/assets/53377291/e69859bd-ee3e-4d1b-8200-b51b2cf76eb0)
