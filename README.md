@@ -1,4 +1,4 @@
-![ONION Links Header](https://iili.io/2Q4DTqF.png)
+![ONION Links Header](https://iili.io/2Q4DTqF.jpg)
 
 <pre>"If the government or the parties won't address our needs, we will.    
 It's about direct action, even civil disobedience." (Edward Snowden)</pre>
