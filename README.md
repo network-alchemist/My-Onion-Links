@@ -332,7 +332,7 @@ Imperial Library - http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7ta
 GenoType.INC - http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion</br>
 TSSA – http://tssa3yo5xfkcn4razcnmdhw5uxshx6zwzngwizpyf7phvea3gccrqbad.onion</br>
 D2HW - http://mlkc77sivn6eghltmruu4hwadpuxmniamqe6w7y7l25xysxumpld7jyd.onion/prgm.html</br>
-
+wormGPT - http://wormgpthkhr6gyfphff6rd5axmva4tp7zgzxmdmxkof5hjlykkuutiqd.onion/index.php?style=dark
 ### NEWS AND BLOGS  
 Tor Times - http://tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion</br>
 DarkMatter – http://dark3i5wry7zl7hdpmidmaflve7cmxzhvhpoutrryb5vd44qc52tbhad.onion</br>
@@ -399,6 +399,7 @@ HARICA Certificate Authority - https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwd
     https://godnotaba.io<br>
     https://www.reddit.com/r/onions<br>
     https://www.reddit.com/r/TOR<br>
+      
     <br>
     </td>
   </tr>
